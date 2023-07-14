@@ -3,6 +3,8 @@
 ## 📑 Description
 🧬 Project REVIVAL is a monthly initiative dedicated to breathing new life into my stale, old projects. Just like a guardian angel for my abandoned creations, I believe that every project deserves a chance to be revived and shine once again. 👼🏼
 
+**Start date: July 14, 2023**
+
 <br>
 
 ## 🥷🏼 Motivation
