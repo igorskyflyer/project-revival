@@ -26,7 +26,8 @@ Project REVIVAL is not just a personal endeavor; it's an open invitation for col
 
 💎 **Sharing Your Own Stories**: If you have your own neglected projects that you've successfully revived or are in the process of reviving, I'd love to hear about them. Share your stories, challenges, and triumphs in the discussions section or on social media using the hashtag #ProjectREVIVAL.
 
-🎤 **Offering Suggestions**: If you come across one of my abandoned projects that you think should be prioritized for revival, don't hesitate to reach out and let me know. Your input is valuable, and I appreciate any suggestions for potential candidates.
+🎤 **Offering Suggestions**: If you come across one of my abandoned projects that you think should be prioritized for revival, don't hesitate to reach out and let me know. Your input is valuable, and I appreciate any suggestions for potential candidates.  
+Suggestions are made via [Issues](https://github.com/igorskyflyer/project-revival/issues).
 
 ---
 
