@@ -32,7 +32,7 @@ Suggestions are made via [Issues](https://github.com/igorskyflyer/project-reviva
 ---
 
 ## 🧬 Current Revival Project
-The current project undergoing revival is \[not decided yet\]. Follow the repository to stay updated on the progress, and feel free to get involved!
+The current project undergoing revival is **_\[not decided yet\]_**. Follow the repository to stay updated on the progress, and feel free to get involved!
 
 <br>
 
