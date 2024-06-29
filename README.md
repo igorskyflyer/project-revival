@@ -3,7 +3,7 @@
 <br>
 
 ## 📑 Description
-🧬 Project REVIVAL is a monthly initiative dedicated to breathing new life into my stale, old projects. 👼🏼  
+🧬 Project REVIVAL is an initiative dedicated to breathing new life into my stale, old projects. 👼🏼  
 
 Project REVIVAL is not just a simple moniker; it represents the polysemous nature that defines my mission.
 
@@ -17,9 +17,9 @@ Over the years, I've accumulated a collection of projects that have been left ne
 <br>
 
 ## 🤔 How It Works
-At the beginning of each month, I select one project from my repository of neglected endeavors. Throughout the month, I dedicate a portion of my time and energy to revive and improve the chosen project. This can involve refactoring code, adding new features, fixing bugs, or even completely reimagining the project's purpose.
+I will select one project from my repository of neglected endeavors. I will dedicate a portion of my time and energy to revive and improve the chosen project. This can involve refactoring code, adding new features, fixing bugs, or even completely reimagining the project's purpose.
 
-Once the month is over, I document my progress, achievements, and any lessons learned in the project's repository. This allows others to witness the transformation and follow the journey of revival.
+I will document my progress, achievements, and any lessons learned in the project's repository. This allows others to witness the transformation and follow the journey of revival.
 
 <br>
 
